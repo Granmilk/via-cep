@@ -7,7 +7,7 @@
 
 ### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+Após dar fork e clonar o projeto, criei uma classe APP.java para recurso didático.
 
 ## 💻 Pré-requisitos
 
